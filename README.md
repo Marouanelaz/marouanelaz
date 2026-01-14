@@ -1,6 +1,8 @@
 # Hi there, I'm Marouane Lazar 👋
 
-I'm a student at **Columbus State Community College**, currently pursuing an **Associate of Science in Computer and Information Science**. I'm building a strong foundation in programming and excited to grow into a well‑rounded developer.
+I'm a student at **Columbus State Community College**, currently pursuing an **Associate of Science in Computer and Information Science**. 
+As a student beginning my coding journey, this is my first GitHub account. I'm using this space to explore real-world code, learn how developers solve problems, and improve my skills over time. I'm still at the introductory level, but I'm committed to growing and becoming better every day.
+
 
 ## 🚀 About Me
 - 🎓 Studying **Computer & Information Science**
